@@ -51,6 +51,7 @@ dependencies {
     implementation(libs.navigation.ui.ktx)
     implementation(libs.androidx.activity)
     implementation(libs.androidx.annotation)
+    implementation(libs.androidx.recyclerview)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
